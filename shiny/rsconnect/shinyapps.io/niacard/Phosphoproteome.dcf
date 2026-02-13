@@ -1,0 +1,13 @@
+name: Phosphoproteome
+title: Phosphoproteome
+username: niacard
+account: niacard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12916150
+bundleId: 10796999
+url: https://niacard.shinyapps.io/Phosphoproteome/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_format.R|diff_fuzz.csv|test.R
