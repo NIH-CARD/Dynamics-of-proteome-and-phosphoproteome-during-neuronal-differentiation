@@ -16,7 +16,7 @@ Users can either:
 # 1. Running Locally
 Clone the repository
 ```R
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/NIH-CARD/Dynamics-of-proteome-and-phosphoproteome-during-neuronal-differentiation.git
 cd YOUR_REPOSITORY
 ```
 
